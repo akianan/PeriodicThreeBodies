@@ -1,4 +1,4 @@
-from RevisedNumericalSolver import torchstate
+from NumericalSolver import torchstate
 import torch
 import time
 
